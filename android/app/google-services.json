@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541624992529",
+    "project_id": "edubee-fcff8",
+    "storage_bucket": "edubee-fcff8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541624992529:android:7c1cbd56bbc955f21c42b0",
+        "android_client_info": {
+          "package_name": "com.example.edu_bee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFUavVI-Rby_w6icQu_2smn1LHkv-pr-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
